@@ -1,4 +1,4 @@
-# UV-Board-Controller
+# LED-Board-Controller-Firmware
 Firmware for custom LED control board. 
 
 Features:
